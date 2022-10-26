@@ -16,3 +16,38 @@ span {
 .blue-text {
     color:blue;
 }
+header {
+    letter-spacing: 10px;
+}
+.red {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+.blue {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+.purple {
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+    float: left;
+    border: solid 4px rgb(23, 255, 23);
+    
+}
+
+form input[type=text] {
+    border: solid 2px black;
+    border-radius: 10px
+}
+form input[type=email] {
+    border: solid 3px rgb(208, 193, 193);
+    border-radius: 5px;
+}
+form {
+    clear: left;
+}
